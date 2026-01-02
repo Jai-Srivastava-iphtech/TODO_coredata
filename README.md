@@ -22,7 +22,6 @@ This project demonstrates **Core Data integration in a real-world UIKit applicat
 - Supports:
   - Dynamic cell height for long task titles  
   - Trash button inside each cell  
-  - Swipe-to-delete functionality  
 - Automatically refreshes UI after database updates  
 
 ---
@@ -46,7 +45,6 @@ This project demonstrates **Core Data integration in a real-world UIKit applicat
 ### Delete Task  
 - Delete using:
   - **Trash button inside cell**
-  - **Swipe-to-delete gesture**
 - Confirmation alert before deletion  
 - Removes task from Core Data and updates UI  
 
